@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iratin1
 - 👀 I’m interested in games and dev
-- 🌱 I’m currently learning git!
+- 🌱 I’m currently learning C
 
 
 <!---
