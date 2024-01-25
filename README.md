@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iratin1
 - 👀 I’m interested in games and dev
-- 🌱 I’m currently HTML
+- 🌱 I’m currently Studying HTML and CSS
 
 
 <!---
